@@ -2,14 +2,15 @@
 A beginner-friendly Python script that encrypts and decrypts messages using the classic Caesar Cipher. This project helps new learners understand basic cryptographic principles and string manipulation in Python.
 
 🚀 Features:
-
 ✅ Encrypts and decrypts alphabetic characters.
+
 🔢 Works with a given shift number.
+
 🔄 Handles invalid input and exceptions gracefully.
+
 📖 Features easy-to-read Python code with comments.
 
 💻 How to Use:
-
 To run this tool, open your terminal or command prompt and navigate to the project directory.
 
 🔧 Run from terminal:
@@ -42,11 +43,14 @@ Requirements:
 
 
 📚 What You'll Learn:
-
 Building this project will teach you fundamental programming concepts and introduce you to basic cryptography:
+
 🧱 How the Caesar Cipher works at a conceptual level.
+
 🔌 The basics of string and character manipulation in Python, including converting between characters and their ASCII values using ord() and chr().
+
 💬 Practical application of modular arithmetic for wrapping around the alphabet.
+
 ⚠️ Techniques for handling user input and implementing basic error validation.
 
 
