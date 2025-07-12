@@ -55,7 +55,6 @@ Building this project will teach you fundamental programming concepts and introd
 
 
 💡 Future Improvements:
-
 🔍 Brute-force decryption mode (try all 25 shifts)
 🌐 Support for numbers and special characters
 🖥️ GUI version using Tkinter
