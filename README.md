@@ -1,7 +1,9 @@
 🔍 Simple Python Caesar Cipher Tool
 A beginner-friendly Python script that encrypts and decrypts messages using the classic Caesar Cipher. This project helps new learners understand basic cryptographic principles and string manipulation in Python.
 
+
 🚀 Features:
+
 ✅ Encrypts and decrypts alphabetic characters.
 
 🔢 Works with a given shift number.
@@ -9,6 +11,7 @@ A beginner-friendly Python script that encrypts and decrypts messages using the 
 🔄 Handles invalid input and exceptions gracefully.
 
 📖 Features easy-to-read Python code with comments.
+
 
 💻 How to Use:
 To run this tool, open your terminal or command prompt and navigate to the project directory.
